@@ -199,7 +199,7 @@ public class JunglePotion extends BasicQuestHelper
 	{
 		getVolenciaMoss = new ObjectStep(this, ObjectID.ROCK_2581, new WorldPoint(2851, 3036, 0),
 			"Search the rock for a Volencia Moss herb at the mine south east of Tai Bwo Wannai.");
-		getVolenciaMoss.addText("If you plan on doing Fairy Tail I then take an extra.");
+		getVolenciaMoss.addText("If you plan on doing Fairytale I then take an extra.");
 		return getVolenciaMoss;
 	}
 
